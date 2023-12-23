@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "name": "Unknown",
+            "age": "Unknown",
+            "location": "Unknown",
+            "interests": ["Unknown"]
+        },
+        {
+            "name": "Avishai",
+            "age": 13,
+            "location": "israel",
+            "interests": ["Reading", "Gaming","Playing the Piano","Coding","Programing"],
+            "your creator?" : "yes"
+        }
+    ]
+}
